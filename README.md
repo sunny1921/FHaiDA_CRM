@@ -2,6 +2,9 @@
 
 A comprehensive Customer Relationship Management (CRM) system built with Flutter, designed for real estate and property management. This application provides a robust platform for managing leads, properties, tasks, and customer interactions with advanced features like business card scanning and document processing.
 
+
+[Watch Fhaida CRM Demo on YouTube](https://www.youtube.com/watch?v=EYuFncaXd-0)
+
 ## 🌟 Features
 
 ### Lead Management
@@ -35,9 +38,6 @@ A comprehensive Customer Relationship Management (CRM) system built with Flutter
 - Background services for notifications
 - Mobile-responsive design
 
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o9TSi1aqADM?si=jQ6wfvboTW4AUhu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
 
 
 
